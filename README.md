@@ -3,7 +3,7 @@ A Python script that performs a brute-force attack on a profile Instagram
 
 pass by pass:
 
-Git Clone https://github.com/coachini/bruteforce_instagram.gi
+Git Clone https://github.com/coachini/bruteforce_instagram.git
 
 chmod +x bfinsta.py
 
